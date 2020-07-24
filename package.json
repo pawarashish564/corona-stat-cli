@@ -1,0 +1,23 @@
+{
+  "name": "corona-stat-cli",
+  "version": "1.0.0",
+  "description": "simple corona tracker for command line",
+  "main": "app.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawarashish564/corona-stat-cli.git"
+  },
+  "author": "Aashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawarashish564/corona-stat-cli/issues"
+  },
+  "homepage": "https://github.com/pawarashish564/corona-stat-cli#readme"
+}
